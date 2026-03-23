@@ -16,21 +16,21 @@
 
 ## 👨‍💻 &nbsp;About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="380"/>
+I'm **Rohan Reddy**, a passionate **MERN Stack Developer** who enjoys turning ideas into real, scalable web applications. I thrive at the intersection of clean UI and solid backend architecture — building things that are fast, functional, and user-friendly.
+
+I work with the full JavaScript ecosystem — from crafting responsive frontends with **React** to designing efficient REST APIs with **Node.js & Express**, backed by **MongoDB** and **Redis**. I also have hands-on experience with **real-time communication** using Socket.io and deploying production apps on **AWS, Vercel, and Render**.
+
+When I'm not building projects, you'll find me deep in a coding challenge, exploring open-source repos, or leveling up my knowledge in **advanced React patterns** and cloud infrastructure. I believe great software is built through **consistency, curiosity, and collaboration**.
 
 <br/>
 
-🔭 &nbsp;Currently working on mastering the **MERN stack**
+> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* 
 
-🌱 &nbsp;Learning **advanced React patterns** & Node.js best practices
 
-👯 &nbsp;Looking to collaborate on **open-source web projects**
 
-💬 &nbsp;Ask me about **frontend development** and JavaScript ecosystems
-
-⚡ &nbsp;Fun fact: I love solving **coding challenges** in my free time
-
-<br/><br/><br/><br/><br/>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="600"/>
+</div>
 
 ---
 
