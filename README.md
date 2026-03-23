@@ -67,7 +67,7 @@
   <a href="mailto:smecrohanreddy5p6@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://twitter.com/codewebhub_106" target="_blank">
+  <a href="https://x.com/rohanreddy106" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
