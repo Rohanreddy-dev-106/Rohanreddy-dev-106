@@ -15,12 +15,8 @@
 ---
 
 ## 👨‍💻 &nbsp;About Me
-
-I'm **Rohan Reddy**, a passionate **MERN Stack Developer** who enjoys turning ideas into real, scalable web applications. I thrive at the intersection of clean UI and solid backend architecture — building things that are fast, functional, and user-friendly.
-
-I work with the full JavaScript ecosystem — from crafting responsive frontends with **React** to designing efficient REST APIs with **Node.js & Express**, backed by **MongoDB** and **Redis**. I also have hands-on experience with **real-time communication** using Socket.io and deploying production apps on **AWS, Vercel, and Render**.
-
-When I'm not building projects, you'll find me deep in a coding challenge, exploring open-source repos, or leveling up my knowledge in **advanced React patterns** and cloud infrastructure. I believe great software is built through **consistency, curiosity, and collaboration**.
+Hey! I'm Rohan Reddy, a passionate MERN Stack Developer who loves turning ideas into fast, scalable web apps. From building clean UIs with React to crafting solid REST APIs with Node.js & Express, backed by MongoDB, Redis, and real-time features with Socket.io — I enjoy working across the full stack.
+When I'm not coding, I'm solving challenges, exploring open-source, or diving into cloud infrastructure and advanced React patterns. I believe great software is built with consistency, curiosity, and collaboration. Let's build something awesome together! 🚀
 
 - 🤖 &nbsp;Currently exploring **GenAI tools** and how they're reshaping modern development workflows
 - 🧠 &nbsp;Learning how **AI works internally** — transformers, embeddings & the mechanics behind LLMs
