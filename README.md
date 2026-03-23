@@ -22,6 +22,13 @@ I work with the full JavaScript ecosystem — from crafting responsive frontends
 
 When I'm not building projects, you'll find me deep in a coding challenge, exploring open-source repos, or leveling up my knowledge in **advanced React patterns** and cloud infrastructure. I believe great software is built through **consistency, curiosity, and collaboration**.
 
+- 🤖 &nbsp;Currently exploring **GenAI tools** and how they're reshaping modern development workflows
+- 🧠 &nbsp;Learning how **AI works internally** — transformers, embeddings & the mechanics behind LLMs
+- 🔗 &nbsp;Actively **integrating AI into my projects** — from smart APIs to AI-powered full-stack features
+- 🕵️ &nbsp;Keeping a close eye on the latest **AI agents** in the market and experimenting with their capabilities
+ 
+<br/>
+
 <br/>
 
 > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* 
