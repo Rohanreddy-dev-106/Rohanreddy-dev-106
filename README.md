@@ -25,10 +25,7 @@ I’m a self-taught developer who learns by building, solving problems, and cont
 🔗 Actively integrating AI into my projects, from smart APIs to AI-powered full-stack features
 
 🧠 Experimenting with AI agents and tools that are reshaping modern development workflows
-
- 
 <br/>
-
 <br/>
 
 > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* 
