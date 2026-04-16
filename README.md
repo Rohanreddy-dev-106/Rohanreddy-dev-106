@@ -21,7 +21,9 @@ A passionate MERN Stack Developer who loves turning ideas into fast, scalable, r
 I’m a self-taught developer who learns by building, solving problems, and contributing to open-source. Recently, I’ve been diving deep into Learning AI Engineering (ML, DL, NLP)
 
 🤖 Learning AI Engineering (ML, DL, NLP) and exploring GenAI—understanding how modern AI works under the hood, including transformers, embeddings, and LLM mechanics
+
 🔗 Actively integrating AI into my projects, from smart APIs to AI-powered full-stack features
+
 🧠 Experimenting with AI agents and tools that are reshaping modern development workflows
 
  
