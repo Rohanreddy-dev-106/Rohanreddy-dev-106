@@ -15,13 +15,15 @@
 ---
 
 ## 👨‍💻 &nbsp;About Me
-Hey! I'm Rohan Reddy, a passionate MERN Stack Developer who loves turning ideas into fast, scalable web apps. From building clean UIs with React to crafting solid REST APIs with Node.js & Express, backed by MongoDB, Redis, and real-time features with Socket.io — I enjoy working across the full stack.
-When I'm not coding, I'm solving challenges, exploring open-source, or diving into cloud infrastructure and advanced React patterns. I believe great software is built with consistency, curiosity, and collaboration. Let's build something awesome together! 🚀
+Hey! I’m Rohan Reddy 👋
+A passionate MERN Stack Developer who loves turning ideas into fast, scalable, real-world web applications. I enjoy working across the full stack—from building clean, responsive UIs with React to designing robust REST APIs using Node.js, Express, MongoDB, Redis, and real-time features powered by Socket.io.
 
-- 🤖 &nbsp;Currently exploring **GenAI tools** and how they're reshaping modern development workflows
-- 🧠 &nbsp;Learning how **AI works internally** — transformers, embeddings & the mechanics behind LLMs
-- 🔗 &nbsp;Actively **integrating AI into my projects** — from smart APIs to AI-powered full-stack features
-- 🕵️ &nbsp;Keeping a close eye on the latest **AI agents** in the market and experimenting with their capabilities
+I’m a self-taught developer who learns by building, solving problems, and contributing to open-source. Recently, I’ve been diving deep into Learning AI Engineering (ML, DL, NLP)
+
+🤖 Learning AI Engineering (ML, DL, NLP) and exploring GenAI—understanding how modern AI works under the hood, including transformers, embeddings, and LLM mechanics
+🔗 Actively integrating AI into my projects, from smart APIs to AI-powered full-stack features
+🧠 Experimenting with AI agents and tools that are reshaping modern development workflows
+
  
 <br/>
 
